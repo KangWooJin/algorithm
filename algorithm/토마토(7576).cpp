@@ -1,3 +1,6 @@
+
+// https://www.acmicpc.net/problem/7576
+
 #include <iostream>
 #include <algorithm>
 #include <stdio.h>

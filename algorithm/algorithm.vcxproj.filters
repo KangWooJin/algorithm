@@ -90,9 +90,6 @@
     <ClCompile Include="점프.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="토마토.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="최소비용 구하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -105,9 +102,33 @@
     <ClCompile Include="영역 구하기.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="나이트의 이동.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="안전 영역.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="촌수계산.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토%287576%29.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="토마토(7569).cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="보물섬.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="이분 그래프.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
+      <Filter>리소스 파일</Filter>
+    </Text>
+    <Text Include="out.txt">
       <Filter>리소스 파일</Filter>
     </Text>
   </ItemGroup>

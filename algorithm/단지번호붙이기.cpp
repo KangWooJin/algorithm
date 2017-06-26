@@ -72,6 +72,7 @@ int main()
 
 	sort(ans.begin(), ans.end());
 
+	cout << ans.size() << '\n';
 	for (int i = 0; i < ans.size(); ++i)
 		cout << ans[i] << '\n';
 	return 0;

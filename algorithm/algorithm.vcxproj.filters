@@ -123,6 +123,15 @@
     <ClCompile Include="이분 그래프.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="탈출.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="적록색약.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="벽 부수고 이동하기.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="input.txt">
